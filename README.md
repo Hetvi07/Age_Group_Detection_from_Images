@@ -9,7 +9,7 @@ In an attempt to learn ML and enhance our understanding in python, we decided to
 
 Output Images - 
 
-<img src="https://drive.google.com/uc?export=view&id=105WDA3bD5OG2BTQC3SvOQE4pqT5VrbBf" width="400" height="400" />
+<img src="https://drive.google.com/uc?export=view&id=105WDA3bD5OG2BTQC3SvOQE4pqT5VrbBf" width="50%" height="50%" />
 
 Original Paper - <https://towardsdatascience.com/age-detection-using-facial-images-traditional-machine-learning-vs-deep-learning-2437b2feeab2>  
   
