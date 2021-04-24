@@ -8,9 +8,12 @@ In an attempt to learn ML and enhance our understanding in python, we decided to
 
 
 Output Images - 
-<p>
-  <img src="https://drive.google.com/uc?export=view&id=105WDA3bD5OG2BTQC3SvOQE4pqT5VrbBf" width="425"  />  <img src="https://drive.google.com/uc?export=view&id=10d5986MYq2yQPaAf8OynSvflFnMRNILj" width="425"  /> <img src="https://drive.google.com/uc?export=view&id=10M8bSN5bco6Sh1NVYHnYdQaY7QI_gDZO" width="425" />
- </p>
+<p align = 'center'>
+ <img height=250 src="https://drive.google.com/uc?export=view&id=105WDA3bD5OG2BTQC3SvOQE4pqT5VrbBf" alt="IMG" /> 
+ <img height=250 src="https://drive.google.com/uc?export=view&id=10d5986MYq2yQPaAf8OynSvflFnMRNILj" alt="IMG" /> 
+ <img height=250 src="https://drive.google.com/uc?export=view&id=10M8bSN5bco6Sh1NVYHnYdQaY7QI_gDZO" alt="IMG" />
+</p>
+
 
 Here are the references,
 
