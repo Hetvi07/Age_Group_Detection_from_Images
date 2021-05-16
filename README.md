@@ -2,7 +2,7 @@
 
 
 
-In an attempt to learn ML and enhance our understanding in python, I decided to replicate the project. This project compares two approaches, traditional Machine Learning using image feature extraction followed by classification modelling using the famous sklearn library v/s Deep Learning  using TensorFlow library to detect age of the people from thier images.
+In an attempt to learn ML and enhance our understanding in python, I decided to replicate the project. This project compares two approaches, traditional Machine Learning using image feature extraction followed by classification modelling using the famous sklearn library v/s Deep Learning  using TensorFlow library to detect age of the people from their images.
   
   
 
